@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+requests
+beautifulsoup4
+python-dotenv
+newspaper3k
+lxml[html_clean]
+playwright
+pymupdf
+python-multipart
