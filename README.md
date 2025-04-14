@@ -1,4 +1,4 @@
-# 🧠 AI Blog Summarizer API
+# 🧠 AI Lead Qualifier API
 
 A FastAPI-powered microservice that summarizes raw blog text or online articles using OpenAI's GPT-4.
 
