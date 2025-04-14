@@ -24,6 +24,5 @@ MIT License
 
 ✨ Author
 
-Bernard Okwampah
-LinkedIn →
+Bernard Okwampah           
 CTO | Full Stack AI Developer
